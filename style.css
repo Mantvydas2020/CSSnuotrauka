@@ -1,0 +1,36 @@
+
+
+boby {
+background-color: #74992e;
+}
+div{background color: hsl(120,100%,60&);
+  text-align: center;
+}
+.pirmas{
+width: : 300px;
+margin-top: auto;
+background-color: yellow;
+padding-left: 20px;
+padding-bottom:2px;
+padding: 22px;
+}
+.antras{font-weight: bolder;
+  text-decoration: 11px;
+}
+.title{
+  background-color:white;
+  font-weight: bolder;
+  text-shadow: 10px;
+}
+
+h1{
+  text-align: center;
+  border-top: 12px;
+  border-bottom:12px;
+  border-left: 12px;
+  border-right:12px;
+  padding-left: 15px;
+  padding-right: 11px;
+}
+</body>
+</html>
